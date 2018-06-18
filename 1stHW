@@ -1,3 +1,12 @@
 HaziFeladat:
+Hozzon letre egy 10 elemu tombot a main fgv.ben, mely egesz szamokat tarolhat
+Toltse fel a main fgv.en belul egy for ciklussal 5tel oszthato (5, 10, 15...)
+Fgv. megnezi, hogy van-e benne tetszoleges szammal oszthato szam. (parameter listan kapja meg, hogy mivel legyen oszthato)
+Majd kiirje egy kulon fgv segitsegevel, hogy az oszto szammal oszthato szam van-e benne.
+Pelda kiiras (megoldas):
+True: A szamok kozott van ...tal oszthato szam.
+False: A szamok kozott nincs a ...tal oszthato szam.
+
+HaziFeladat:
 2 szam szorzat metodus
 nagyobb szam osztasa kisebbel metodus
