@@ -1,0 +1,50 @@
+Hazi feladat: 06 20
+Elmelet: UML diagram onallo kijegyzetelese (magyar nyelven is megtalalhato)
+          - hogyan abrazolunk mezoket
+           - hogyan abrazolunk fgv.eket
+           - hogyan jelezzuk a lathatosagokat
+           - hogyan jelezzuk a konstruktort
+           - hogyan jelezzuk az oroklest es annak tipusat
+Gyakorlat:
+  a) Hozzon letre 3 osztalyt
+    - Epulet, Haz, Garazs
+    - Tulajdonsagok :
+      -Epulet: ablakok szama, alapterulet
+      -Haz : ablakok szama, alapterulet, szobak szama, ajtok szama
+      -Garazs : ablakok szama, alapterulet, parkolohelyek szama
+      
+   Keresse meg a megfelelo oroklesi rendszert, abrazolja UML diagramon, es irjon proba kodot, amely teszteli a program futasat.
+      
+  b) Hozzon letre 7 osztalyt
+    -Noveny, Zoldseg, Gyumolcs, Paprika, Hagyma, Meggy, Korte
+    -Tulajdonsagok (teljes megvalositasi listaval):
+        -Novenynek : int meret, Konstruktor, getter+setter, toString()
+        -Zoldseg : int meret, int csipossegFoka, Konstruktor, getter+setter, toString()
+        -Gyumolcs : int meret, int edessegFoka, Konstruktor, getter+setter, toString()
+        -Paprika : int meret, int csipossegFoka, string szin, Konstruktor, getter+setter, toString()
+        -Hagyma : int meret, int csipossegFoka, int retegekSzama, Konstruktor, getter+setter, toString()
+        -Meggy : int meret, int edessegFoka, bool magozott, Konstruktor, getter+setter, toString()
+        -Korte : int meret, int edessegFoka, bool erette, Konstruktor, getter+setter, toString()
+        
+      Keresse meg a megfelelo oroklesi rendszert, abrazolja UML diagramon es hozzon letre pelda kodot, mely teszteli a
+      program futasat.
+      
+     Kovetkezo orara szukseges ismeretek:
+     Metodus felepitese, Osztaly felepitese, Orokles megfelelo kezelese konstruktorokban, Lathatosagok
+     
+--------------//--------------
+
+HaziFeladat 06 18:
+Hozzon letre egy 10 elemu tombot a main fgv.ben, mely egesz szamokat tarolhat
+Toltse fel a main fgv.en belul egy for ciklussal 5tel oszthato (5, 10, 15...)
+Fgv. megnezi, hogy van-e benne tetszoleges szammal oszthato szam. (parameter listan kapja meg, hogy mivel legyen oszthato)
+Majd kiirje egy kulon fgv segitsegevel, hogy az oszto szammal oszthato szam van-e benne.
+Pelda kiiras (megoldas):
+True: A szamok kozott van ...tal oszthato szam.
+False: A szamok kozott nincs a ...tal oszthato szam.
+
+-------------//---------------
+
+HaziFeladat:
+2 szam szorzat metodus
+nagyobb szam osztasa kisebbel metodus
