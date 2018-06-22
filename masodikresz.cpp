@@ -1,3 +1,10 @@
+/*
+Feladat:
+Kerem ismertesse a kod sorait (minden sort szamozva)!
+Rajzoljon hozza megfelelo UML diagramot, es jelezze rajta az oroklest!
+A kod lefutasa utan mit olvashatunk a konzolra kiirva?
+*/
+
 #include <iostream>
 using namespace std;
 
