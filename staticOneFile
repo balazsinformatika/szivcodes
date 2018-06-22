@@ -1,0 +1,49 @@
+#include <iostream>
+
+using namespace std;
+
+class Ember{
+    
+    int kor;
+    
+    public:
+    static int egyedszam;
+    Ember(int _kor){
+        kor=_kor;
+        egyedszam++;
+    }
+    
+    int getEgyedSzam(){
+        return egyedszam;
+    }
+    
+};
+
+class Valto{
+    static const int EURtoHUF=300;
+    static const int USDtoHUF=250;
+    public:
+    static const int getUSDfromHUF(int HUF){
+        return HUF/USDtoHUF;
+    }
+    
+    static const int getHUFfromUSD(int USD){
+        return USD*USDtoHUF;
+    }
+    
+    
+};
+
+int Ember::egyedszam=0;
+
+
+int main(){
+    Ember janos(15);
+    std::cout <<janos.getEgyedSzam()<<  std::endl;
+
+    std::cout <<Valto::getUSDfromHUF(2500)<< std::endl;
+    
+    
+    return 0;
+    
+}
