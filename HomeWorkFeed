@@ -1,4 +1,32 @@
-Ne felejtse el senki, hogy holnap Dolgozat!!
+Házi feladat: 09 03
+Elmélet: Kérem tessék átnézni mindent, amit eddig vettünk, mivel rögtön az első alkalommal röpivel kezdünk!
+Ami biztos benne lesz: 
+          általunk tanult típusok (változók) - pl tárolj egy egész számot ,,a" néven
+          ciklusok - mi a különbség a for, while, do while felépítésében és lefutásában
+          osztályt létre kell tudni hozni fejből, akár papíron is le kell tudni kódolni hiba nélkül
+          tudni kell, hogy mi az az include, miért használjuk, avagy mit tesz lehetővé
+          fogok kérni egy db uml-t egy egyszerű örökléses osztályról
+          fgv. alapvető felépítése és használata
+Gyakorlati rész:
+           Töltsenek fel egy kódot, mely 4 osztályt tartalmaz
+           Edesseg néven, melynek egyetlen paramétere a cukormennyisége (egész szám)
+           HidegEdesseg, melynek plusz paramétere a maximális hőfök, amin még fogyasztható (egész szám)
+           Sutemeny, melynek a plusz paramétere a sütési idő (egész szám)
+           Fagylalt, melynek plusz paramétere az íze (szöveg)
+           
+           Határozzák meg a megfelelő öröklést, és az alapján valósítsák meg a kódot!
+           Kell toString()!!!
+           A main fgv.-be hozzanak létre megfelelő példányokat és írják ki az adataikat!
+           
+           Amennyiben tehetik, kezdjenek el átszokni Code::Blocks fejlesztési felületre, általam javasolt a Fortran verzió,
+           teljesen ingyenes, kis méretű, minden oprendszeren fut.
+           
+           Mi az év folyamán már csak azt fogjuk használni, mert csak azzal érjük el a helyi fájlokat a gépen,
+           és az érettségiben ez lesz a feladatuk.
+           
+Határidő VASÁRNAP DÉL...
+
+--------------//--------------
 
 Hazi feladat: 06 20
 Elmelet: UML diagram onallo kijegyzetelese (magyar nyelven is megtalalhato)
