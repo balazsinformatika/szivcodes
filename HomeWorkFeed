@@ -1,3 +1,37 @@
+Házi feladat: 09 06
+Hozzon létre egy függvényt, mely visszaadja egy tetszőleges egész szám tetszőleges egész kitevős hatványát:
+a)
+minta -- int hatvany(int szam, int kitevo){
+                             int eredmeny .....
+                             ....
+                             ....
+                             return eredmeny;
+                    }
+                    
+b)
+hozzon létre egy programot, mely kirajzol egy számpiramist a következő módon:
+input:
+          priamis(6);
+          
+output:
+          654321
+          54321
+          4321
+          321
+          21
+          1
+          
+input:
+          piramis(3);
+          
+output:
+          321
+          21
+          1
+          
+          
+--------------//--------------
+
 Házi feladat: 09 03
 Elmélet: Kérem tessék átnézni mindent, amit eddig vettünk, mivel rögtön az első alkalommal röpivel kezdünk!
 Ami biztos benne lesz: 
