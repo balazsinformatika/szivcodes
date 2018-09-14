@@ -1,3 +1,10 @@
+Házi feladat: 09 14
+Rekurzió 
+  - Fibonacci számsor kiírása for és while ciklussal és rekurzívan is 
+      (külön függvények, amiket a mainben lehet meghívni, egy db egész szám legyen mindnek a paramétere)
+  
+--------------//--------------
+
 Házi feladat: 09 06
 Hozzon létre egy függvényt, mely visszaadja egy tetszőleges egész szám tetszőleges egész kitevős hatványát:
 a)
