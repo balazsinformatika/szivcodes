@@ -1,3 +1,60 @@
+Házi feladat 09 20
+Nézzuk át az előző hazikat (főleg az előző 2-t)
+Akinek nincs meg a működő kód, az kérem kérje el, vagy lopja le valakitől, vagy KÓDOLJA LE MAGA!
+És töltse fel még MA a saját gitHubjára megfelelő névvel ellátva, hogy megtaláljam!
+
+Holnap DOLGOZAT! 
+//Papíron for ciklusok//
+
+Továbbá Kötelező átnézni:
+https://github.com/TKisely/tananyag/blob/master/main.cpp
+
+Feladatok:
+a)
+Hozzon létre egy programot, melynek a main függvénye a következőt tartalmazza csak:
+Kiírja konzolra, hogy ,, A program sikeresen lefutott"
+
+b)
+Hozzunk létre egy függvényt a megfelelő helyre, amely kiirja az első 20 páros számot.
+Hívjuk meg ezt a fgv.-t a megfelelő helyen.
+
+c)
+Hozzunk létre egy függvényt és hívjuk is meg egy tetszőleges számmal, 
+mely képes a ,,S" karaktert tetszőleges számszor kiírni egymás után.
+
+d)
+Hozzunk létre egy függvényt és hívjuk is meg egy tetszőleges számmal, 
+mely egy egész számot kap paraméterlistán, és a következő az output:
+
+Paraméter: 3  Paraméter: 5
+LLL           LLLLL
+LLL           LLLLL
+LLL           LLLLL
+              LLLLL
+              LLLLL
+              
+Tehát tetszőleges méretű négyzeteket rajzol ki L betűkből.
+
+e)
+Hozzunk létre egy függvényt és hívjuk is meg egy tetszőleges számmal, 
+mely egy egész számot kap paraméterlistán, és a következő az output:
+
+Paraméter: 3    Paraméter: 5
+EEE             EEEEE
+EE              EEEE
+E               EEE
+                EE
+                E
+
+Tehát tetszőleges számmal megegyező méretű háromszögeket rajzol ki E betűkből.
+
+
+
+
+
+--------------//--------------
+
+
 Házi feladat: 09 14
 Rekurzió 
   - Fibonacci számsor kiírása for és while ciklussal és rekurzívan is 
