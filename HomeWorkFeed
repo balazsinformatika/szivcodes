@@ -1,3 +1,15 @@
+Házi feladat 09 22
+Téma: for ciklus lecserélése while ciklusra
+Hozzon letre egy függvényt, (melyben nem használhat for ciklust) amely kiírja az egész számokat 
+valamilyen egész számtól egy másik egész számig. Figyeljünk arra, hogy biztosan jól fusson a program minden esetben.
+Majd valósítsa meg ugyanezt a funkciót egy másik függvényben, melyben for ciklust használ.
+Hasonlítsa össze a két ciklust:
+  -miben különböznek, hogy épülnek fel
+Ezeket a megfigyeléseket vagy egy kiegészítő szöveges dokumentumban töltse fel, vagy a kész kód mellé kommentelve.
+(kommentelni soronként a // jellel lehet, vagy /* ide jön szöveg */ jelek között)
+
+--------------//--------------
+
 Házi feladat 09 20
 Nézzuk át az előző hazikat (főleg az előző 2-t)
 Akinek nincs meg a működő kód, az kérem kérje el, vagy lopja le valakitől, vagy KÓDOLJA LE MAGA!
