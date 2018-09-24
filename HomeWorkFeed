@@ -1,3 +1,17 @@
+Házi feladat 09 24
+Téma: fix méretű tömbök
+Hozzon létre egy globális, egész számokat tároló tömböt, majd definiáljon egy fix méretet neki a tanult módon.
+a)
+Készítsen egy függvényt, mely ebbe a globális tömbbe beleír 2-től annyi páros számot, amennyi csak belefér.
+b)
+Készítsen egy függvényt, mely kiírja az összes elemét a tömbnek console-ra (minden elem után tabot elhelyezve)
+c)
+Készítsen egy másik globális fix méretű tömböt az előzőhöz hasonlóan, viszont ez a tömb karaktereket legyen képes tárolni.
+d)
+Módosítsa úgy a tömböt, hogy képes legyen [kulcs -> több érték] párokat tárolni (mind a kettő karakter).
+
+--------------//--------------
+
 Házi feladat 09 22
 Téma: for ciklus lecserélése while ciklusra
 Hozzon letre egy függvényt, (melyben nem használhat for ciklust) amely kiírja az egész számokat 
