@@ -1,0 +1,31 @@
+#include <iostream>
+
+using namespace std;
+
+int tomb[10];
+
+void tombKiirAKonzolra(){
+    for(int index=0;index<10;index++){
+        cout << tomb[index] << endl;
+    }
+}
+
+int main()
+{
+
+
+    for(int index=0;index<10;index++){
+        cout << tomb[index] << endl;
+    }
+
+    for(int index=0;index<10;index++){
+        tomb[index]=index;
+    }
+
+    for(int index=0;index<10;index++){
+        cout << tomb[index] << endl;
+    }
+
+    cout << "VEGE" << endl;
+    return 0;
+}
